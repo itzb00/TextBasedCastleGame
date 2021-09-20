@@ -1,0 +1,7 @@
+1,EntranceHall,A towering castle appears as you step into the Entry Hall.,Armored knights decorate the walls.,---,false,4,3,0,2
+2,Potion Room,description,description2,---,false,5,1,0,0
+3,Dungeon,description,description2,---,false,6,0,0,1
+4,Grand Balcony,description,description2,---,false,7,6,1,5
+5,Dining Hall,description,description2,---,false,0,4,2,0
+6,Observatory,description,description2,---,false,0,0,3,4
+7,Boss Room,description,description2,---,false,0,0,4,0
