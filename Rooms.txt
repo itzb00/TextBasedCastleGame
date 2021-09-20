@@ -1,0 +1,7 @@
+1,Entrance Hall,A towering castle appears as you step into the Entry Hall.,Armored Knights decorate the entire room. You see a few doors.,---,false,4,3,0,2
+2,Potion Room,Bubbling gas makes it hard to see very far.,You stumble through some green mist.,---,false,5,1,0,0
+3,Dungeon,Cold and leaky and full of rats.,You could swear one of the skeletons turned its head toward you.,---,false,6,0,0,1
+4,Grand Balcony,Through stained glass views and freezing air,you can see a huge forest below.,---,false,7,6,1,5
+5,Dining Hall,Looks like no food was served here for a while.,Cups are everywhere...some poured out.,---,false,0,4,2,0
+6,Observatory,Peering through a nearby telescope,you can see bright wonderful stars.,---,false,0,0,3,4
+7,Boss Room,A bat swoops down upon you and turns into a man.,He runs at you. The fight is on!,---,false,0,0,4,0
